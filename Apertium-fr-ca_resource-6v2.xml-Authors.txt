@@ -1,0 +1,18 @@
+Copying and Author information
+
+Resource name: French-Catalan LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17097
+Licence: GPL
+
+Authors:
+
+() Universitat d'Alacant. Grup Transducens
+
+() Eleka Ingenieritza Linguistikoa S.L
+
+() Prompsit Language Engineering, S.L
+
+() Jimmy O'Regan
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
